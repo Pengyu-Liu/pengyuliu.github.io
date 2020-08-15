@@ -36,8 +36,8 @@ Research experience
 Summer School
 ======
 * 2017.08: Pulsar Summer Workshop
-* National Astronomical Observatories of Chinese Academy of Sciences (NAOC)
-* Second Prize Award
+  * National Astronomical Observatories of Chinese Academy of Sciences (NAOC)
+  * Second Prize Award
 
 
 Programming Skills
