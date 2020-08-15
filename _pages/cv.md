@@ -40,7 +40,7 @@ Summer School
 * Second Prize Award
 
 
-Skills
+Programming Skills
 ======
 * Python, Matlab, Fortran, C
 
