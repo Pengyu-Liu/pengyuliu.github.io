@@ -1,1 +1,1 @@
-My research interests focous on planetary sciences.
+My research interests focus on planetary sciences.
