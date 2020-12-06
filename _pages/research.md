@@ -7,4 +7,4 @@ author_profile: true
 
 
 
-My research interests focus on planetary sciences.
+My research interests focus on exoplanets and planetary sciences.
